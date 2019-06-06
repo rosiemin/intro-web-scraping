@@ -1,15 +1,15 @@
-# Learn to Code: Introduction Web Scraping
+#Introduction to Web Scraping using Python 
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
-Get to this repo by typing in URL: **scrape.sage.codes**
+WIFI Network: 
 
-### FAQ: 
+Network: `GEvents` 
 
-- WIFI: `Galvanize Guest` | Password: `beapineapple`
-- Bathrooms: Behind you down the hall to the left
-- Kitchen outside back classroom door with Coffee & Tea!
-- Snacks + water in back of room
+Password: `GEvents1644`
+
+Get to this repo by typing in URL: 
+https://github.com/rosiemin/intro-web-scraping
 
 ## What this workshop is
 
@@ -24,7 +24,6 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 - Its ok to get stuck, just ask for help!
 - Feel free to move ahead
 - Be patient and nice
-
 
 
 
@@ -47,18 +46,13 @@ The goal of this brief course is to provide you with a fun introduction to web S
 #### Here's what we'll be doing:
 * A primer on some technologies we're going to use
 * Building a simple web scraper with Python
-* I'll leave you with a coupl challenges at the end. You can try to complete them here if we have time, or try them at home!
+* I'll leave you with a couple challenges at the end. You can try to complete them here if we have time, or try them at home!
 
 
 ## About me:
-Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! Currently learning more about computer vision with deep learning and helping a startup with a lane detection system for a self driving car application.
+Hello I'm [Rosie Martinez, MPH, ScD](). I'm a former Data Science Immersive Student (Graduated April 2019) and currently work as a Data Scientist for a local AdTech company here in the Denver metro area.  I love all things data and teaching! 
 
- I'm not a Galvanize Instructor, they're way better at teaching!
-
-- Website: [sageelliott.com](http://sageelliott.com/)
-- Twitter: [@sagecodes](https://twitter.com/@sagecodes)
-- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
-- Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
+You can connect with me on my [LinkedIn here!](https://www.linkedin.com/in/rosiemin/).
 
 
 ## About you!
@@ -80,13 +74,13 @@ Many sites have APIs you can connect to and use to pull data from.  Such as the 
 
 ### Where is it used?
 
-Really any where you think it would be appriate to gather data. 
+Really any where you think it would be appropriate to gather data. 
 
-Some people I've met have built web scraper to look for jobs & find apartments.
+Some people I've met have built a web scraper to look for jobs & find apartments.
 
 Companies may search for email or contact information
 
-Competitive analysis on a competing company, what prices do they have?
+Competitive analysis on a competing company. 
 
 Realtors may scrape housing listings
 
@@ -214,9 +208,11 @@ Book mark this repo or the colla notebook and experiement with the code. Try a d
 
 - [Free Data Science Prep](https://www.galvanize.com/data-science-prep)
 
+_ [Python Fundamentals: 3 Week Evening Intensive (7/15/19 - 8/1/19)](http://bit.ly/Python3weekJuly)
 
 
-- Checkout [Scrapy](https://scrapy.org/). Another python module foring doing web scraping. 
+
+- Checkout [Scrapy](https://scrapy.org/). Another python module for doing web scraping. 
 
 
 
@@ -225,7 +221,7 @@ Book mark this repo or the colla notebook and experiement with the code. Try a d
 
 We host so many events! check out our [calendar](https://www.galvanize.com/events)
 
-Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
+Visit the [Learn to code Denver](https://www.meetup.com/learn-to-code-colorado/) meetup or [Colorado Data Science Meetup](https://www.meetup.com/Colorado-Data-Science/) for upcoming events.
 
 
 ## What is Galvanize?
@@ -234,14 +230,15 @@ Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) me
 
 #### Immersive Bootcamp
 
-- [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/2/19 
+- [Data Science](https://www.galvanize.com/data-science) - 8/19/10
 
-- [Software Engineer](https://www.galvanize.com/web-development) - 2/19/19 - 5/17/19
+- [Software Engineer](https://www.galvanize.com/web-development) - 7/22/19
 
 #### Part-Time Courses
 
-- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) 2/12/19 - 5/2/19
-- [Python Fundamentals](https://www.galvanize.com/part-time/data-science-fundamentals) - 2/20/19 - 3/29/19
+_ [Python Fundamentals: 3 Week Evening Intensive (7/15/19 - 8/1/19)](http://bit.ly/Python3weekJuly)
+
+Tuition Credit avialable for those looking to do the data scinece immersive
 
 #### Co-working Space
 
@@ -253,11 +250,7 @@ Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) me
 
 Please feel free to reach out to me with any questions! Let me know what you're planning to do next and how I can help!
 
-
-- Website: [sageelliott.com](http://sageelliott.com/)
-- Twitter: [@sagecodes](https://twitter.com/@sagecodes)
-- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
-- Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
+- Email: [thomas.bell@galvanize.com](mailto:thomas.bell@galvanize.com)
 
 
 
