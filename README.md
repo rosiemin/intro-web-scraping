@@ -230,7 +230,7 @@ Visit the [Learn to code Denver](https://www.meetup.com/learn-to-code-colorado/)
 
 #### Immersive Bootcamp
 
-- [Data Science](https://www.galvanize.com/data-science) - 8/19/10
+- [Data Science](https://www.galvanize.com/data-science) - 8/19/19
 
 - [Software Engineer](https://www.galvanize.com/web-development) - 7/22/19
 
@@ -238,7 +238,7 @@ Visit the [Learn to code Denver](https://www.meetup.com/learn-to-code-colorado/)
 
 _ [Python Fundamentals: 3 Week Evening Intensive (7/15/19 - 8/1/19)](http://bit.ly/Python3weekJuly)
 
-Tuition Credit avialable for those looking to do the data scinece immersive
+Tuition Credit avialable for those looking to do the data science immersive
 
 #### Co-working Space
 
@@ -248,7 +248,7 @@ Tuition Credit avialable for those looking to do the data scinece immersive
 
 ## Questions
 
-Please feel free to reach out to me with any questions! Let me know what you're planning to do next and how I can help!
+Please feel free to reach out to Thomas with any questions! Let him know what you're planning to do next and how he can help!
 
 - Email: [thomas.bell@galvanize.com](mailto:thomas.bell@galvanize.com)
 
