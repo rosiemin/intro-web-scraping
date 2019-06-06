@@ -1,4 +1,4 @@
-#Introduction to Web Scraping using Python 
+# Introduction to Web Scraping using Python 
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
