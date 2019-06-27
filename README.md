@@ -246,11 +246,7 @@ Tuition Credit avialable for those looking to do the data science immersive
 
 #### We are a community
 
-## Questions
 
-Please feel free to reach out to Thomas with any questions! Let him know what you're planning to do next and how he can help!
-
-- Email: [thomas.bell@galvanize.com](mailto:thomas.bell@galvanize.com)
 
 
 
